@@ -7,3 +7,4 @@ Funciones V2
 -Resultado
 
 ![image](https://github.com/user-attachments/assets/42451032-109a-4a30-8a04-76fa9a9dd44d)
+ 
